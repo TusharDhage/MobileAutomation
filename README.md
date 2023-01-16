@@ -36,6 +36,14 @@ Can work on both android, ios including physical devices, emulators.
 - Integrated with Log4J2 Logging framework (supports basic as well as parallel logging)</br>
 - Integrated with Extent Reporting framework (supports parallel, screenshots, logging test steps)</br>
 
+## Prequisites:
+
+- Appium server installed on the machine. In case not, install it by running command npm install -g appium. For more details visit: https://appium.io/docs/en/about-appium/getting-started/?lang=en
+
+- iOS Simulator or Android Emulator or real device to execute tests.
+
+- Install Maven in your machine. Maven is a build tool (can be downloaded from here). pom.xml file is present in base directory which has all the required dependencies and code to invoke testng.xml file when executed from command line.
+
 ###### How to use this framework?
 
 - Clone the repository to your workspace.
