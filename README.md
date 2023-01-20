@@ -1,7 +1,7 @@
 # MobileAutomation
-Test Driven Framework developed using Java with TestNG, Extent Reports.
-Can work on both android, ios including physical devices, emulators.
-Mobile Appium Automation is an innovative technology that enables developers to automate the testing of mobile applications. It is a powerful tool that allows for the efficient and effective testing of mobile applications across multiple platforms, including iOS, Android, and Windows. Appium Automation provides developers with the ability to quickly and accurately test their applications, ensuring that they are of the highest quality and are free of bugs and other issues. This technology is a must-have for any mobile developer looking to ensure their applications are of the highest quality and are ready for release.
+Test Driven Framework developed using Java with TestNG, Extent Reports.</br>
+Can work on both android, ios including physical devices, emulators.</br>
+Mobile Appium Automation is an innovative technology that enables developers to automate the testing of mobile applications. It is a powerful tool that allows for the efficient and effective testing of mobile applications across multiple platforms, including iOS, Android, and Windows. Appium Automation provides developers with the ability to quickly and accurately test their applications, ensuring that they are of the highest quality and are free of bugs and other issues. This technology is a must-have for any mobile developer looking to ensure their applications are of the highest quality and are ready for release.</br>
 
 ## Technologies/Tools used in building the framework</br>
 - Eclipse - IDE</br>
