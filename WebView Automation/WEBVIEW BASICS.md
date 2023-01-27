@@ -22,3 +22,14 @@
 - For Android, in order to inspect WebView elements, developer need to set setWebContents DebuggingEnabled to true within the app
 - For Android, the default ChromeDriver version in Appium should be compatible with the Chrome browser version on the device
 - For iOS, Appium can automate WKWebView and UIWebView elements, but not SafariViewController elements.
+
+## Code Example
+```
+    Set<String> contextHandles = ((AndroidDriver) driver).getContextHandles();
+        for(String contextHandle : contextHandles){
+            System.out.println(contextHandle);
+        }
+
+        ((AndroidDriver) driver).context("WEBVIEW");
+//        ((AndroidDriver) driver).context(contextHandles.toArray()[1].toString());
+```
